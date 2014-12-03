@@ -14,6 +14,8 @@ Per 1: AP Computer Science
 Per 2: Some other class
 
 Alvarez, Antonio
+Per 1: Digital Electronics
+Per 2: Another class here
 
 Becerra-Aguilar, Maria
 
