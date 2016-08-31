@@ -2,12 +2,12 @@ Please find your name in the list and enter your class schedule below your name.
 Use Mr. Jaffe's class schedule as a model for how you should enter your schedule.
 
 Jaffe, Roger
-Per 1: CSE
-Per 2: Prep
-Per 3: APCS
-Per 4: CSE
-Per 5: DE
-Per 6: APCS
+Per 1: Digital Electronics
+Per 2: Digital Electronics
+Per 3: APCS Principles
+Per 4: APCSA
+Per 5: Prep
+Per 6: District
 
 Students:  Enter your name and schedule below:
 
